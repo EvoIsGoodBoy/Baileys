@@ -1,7 +1,7 @@
 # WhatsApp Baileys
 
 <p align="center">
-  <img src="https://files.catbox.moe/orfaaw.jpg" alt="Thumbnail" />
+  <img src="https://files.catbox.moe/qrb34a.png" alt="Thumbnail" />
 </p>
 
 ## Overview
@@ -12,7 +12,7 @@ This README documents architecture, installation, core concepts, message types, 
 
 ---
 
-## FOLLOW MORE INFO
+## Follow For More Information
 
 
 **Owner:** @Whoisevolution
@@ -47,10 +47,10 @@ This README documents architecture, installation, core concepts, message types, 
 npm install @whiskeysockets/baileys
 ```
 
-Atau fork lain bila diperlukan:
+Ubah isi file package.json dengan ini
 
 ```
-npm install @whoisevolution/baileys
+"@whiskeysockets/baileys": "github:EvoIsGoodBoy/Baileys",
 ```
 
 ---
